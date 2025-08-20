@@ -20,7 +20,7 @@ function App() {
       {/* Hero Section */}
       <section id="hero" className="hero">
         <div>
-          <h2>Hello, I’m <span style={{ color: "#facc15" }}>Samyak</span></h2>
+          <h2>Hello, I’m <span style={{ color: "#15f2faff" }}>Samyak</span></h2>
           <p>A passionate Web Developer creating clean and modern designs.</p>
           <a href="#projects">View My Work</a>
         </div>
@@ -78,7 +78,7 @@ function App() {
           email.
         </p>
         <div>
-          <a href="mailto:youremail@example.com">📧 Email</a>
+          <a href="mailto:dhargaweamardip@gmail.com">📧 Email</a>
           <a href="https://linkedin.com" target="_blank" rel="noreferrer">
             💼 LinkedIn
           </a>
